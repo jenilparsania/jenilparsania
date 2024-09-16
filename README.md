@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jenilparsania
 - 👀 I’m interested in becoming a Full Stack Developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 parsaniajenil@gmail.com
 
